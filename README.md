@@ -86,4 +86,7 @@ Similarly, for GTTA and MDTTA, please change ```SETTING``` to gradual or mixed-d
 
 In addition, we provide the TTA method for surgical fine-tuning. It can be found in ```classification/methods/surgical.py```. The corresponding config file can be found in ```classification/cfgs/``` as surgical.yaml for each of the datasets. 
 
-We encourage the user to try out other paramaters and methods.
+We encourage the user to try out other parameters and methods.
+
+#### Citation
+If you found our work useful for your research, please cite our work. Feel free to contact ```SKM200005@utdallas.edu```
