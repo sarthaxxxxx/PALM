@@ -2,9 +2,10 @@
 
 ## PALM: Pushing Adaptive Learning Rate Mechanisms for Continual Test-Time Adaptation
 
-PyTorch code for the AAAI paper. 
+PyTorch code for the AAAI 2025 paper. 
 
 <em> Sarthak Kumar Maharana, Baoming Zhang, and Yunhui Guo </em>
+<br>
 <em> AAAI 2025 </em>
 
 [arXiv](https://arxiv.org/abs/2403.10650)
